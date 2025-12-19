@@ -1,4 +1,4 @@
-# Hi 👋, I'm Siddharth Ramachandran
+# Hi 👋, I'm Siddharth
 
 ### Backend-focused Software Engineer | Building Scalable Systems
 
