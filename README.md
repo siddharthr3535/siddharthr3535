@@ -1,4 +1,4 @@
-# Hi 👋, I'm Siddharth
+# Hi I am Sid,
 
 ### Backend-focused Software Engineer | Building Scalable Systems
 
